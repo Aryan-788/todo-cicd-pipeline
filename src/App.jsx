@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Todo App - Modified</h1>
+      <h1>Todo App - Modified.</h1>
       <form onSubmit={addTodo}>
         <input
           type="text"
